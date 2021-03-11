@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Thibault MONTAUFRAY
+  description: Scale a rancher stack
+  company: servOdroid
+
+  license: MIT
+
+  min_ansible_version: 2.2
+
+  platforms:
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags:
+    - rancher
+
+  dependencies: []
